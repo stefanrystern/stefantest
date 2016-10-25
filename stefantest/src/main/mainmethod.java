@@ -19,13 +19,13 @@ public class mainmethod {
 		
 		nimiEmail.put("Stefan Jaanus Rüstern", "stefan.rystern@gmail.com");
 		nimiEmail.put("Marko Anderson", "");
-		nimiEmail.put("Pärt-Eo Rannap", "");
-		nimiEmail.put("Hedi Haljand", "");
+		nimiEmail.put("Pärt-Eo Rannap", "part.rannap@gmail.com");
+		nimiEmail.put("Hedi Haljand", "hedihaljand@gmail.com");
 		nimiEmail.put("Erki Lõugas", "");
-		nimiEmail.put("Marek Tarraste", "");
+		nimiEmail.put("Marek Tarraste", "marek.tarraste@gmail.com ");
 		nimiEmail.put("Uwe Kersna", "");
 		nimiEmail.put("Roland Paal", "");
-		nimiEmail.put("Signe Saar", "");
+		nimiEmail.put("Signe Saar", "nineinchcrow@gmail.com");
 		
 		List<String> from = new ArrayList<>();
 		from.add("Stefan Jaanus Rüstern");
